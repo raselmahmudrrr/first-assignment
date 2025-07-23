@@ -53,7 +53,7 @@ nav h1{
     border: none;
     padding: 0 auto;
 }
-/* Banner styles */
+/*  This is Banner styles */
 .banner-title{
     text-align: center;
     font-size: 45px;
@@ -71,3 +71,89 @@ nav h1{
     border: none;
     color: #FFFFFF;
 }
+
+
+.banner{
+    height: 267;
+    width: 905;
+}
+.parents{
+    display: flex;
+    margin-right: 150px;
+    margin-left: 141px;
+    margin-top: 61px;
+    gap: 150px;
+}
+.h1{
+    font-size: 42px;
+    font-weight: 800;
+    color:#252432;
+}
+.paragraph{
+    font-size: 24px;
+    color: #252432a9;
+}
+.btn-new{
+    font-size: 16px;
+    font-weight: 800;
+    background-color: #4E47FF;
+    height: 48px;
+    width: 229px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+.img-cls{
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+
+}
+
+
+/*  my user section styles */
+
+.user{
+    font-weight: 800;
+    font-family: 38px;
+    color: #252432;
+
+}
+.one{
+    font-weight: 800;
+    font-size: 80px;
+    color: #4E47FF;
+    text-align: center;
+}
+.two{
+    font-size: 20px;
+    color: #000000a9;
+    text-align: center;
+}
+.flex{
+    display:flex;
+}
+.flex-two{
+    display: flex;
+    
+}
+.main{
+    justify-items: center;
+}
+.flex, .flex-two{
+    text-align: center;
+    gap: 158px;
+    height: 121px;
+    width: 856px;
+}
+.main{
+    background-color: #4d47ff3a;
+    border-radius: 24px;
+    justify-items: center;
+    margin-right: 159px;
+    margin-left: 141px;
+    margin-top: 150px;
+    padding-top: 60px;
+    
+}
+
