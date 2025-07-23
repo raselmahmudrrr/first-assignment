@@ -156,4 +156,46 @@ nav h1{
     padding-top: 60px;
     
 }
+/* feedback */
+.section-description{
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.skill-container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+    
+}
+.skillss{
+    text-align: center;
+    
+}
+.skill{
+    background-color: #f7e9e957;
+    border-radius: 14px;
+    width: 366px;
+    height: 243px;
+    padding-top: 20px;
+    padding-right: 24px;
+    padding-left: 24px;
+    align-content: center;
+}
+.skills{
+    margin-right: 149px;
+    margin-left: 151px;
+    margin-top: 150px;
+
+}
+.skill-paragraph{
+    color: #000000c4;
+}
+.avatar{
+    border-radius: 100px;
+}
+.skill-title{
+    font-size: medium;
+}
 
