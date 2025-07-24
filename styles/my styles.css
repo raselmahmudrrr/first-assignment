@@ -221,5 +221,74 @@ nav h1{
     border: none;
     border-radius: 10px;
     color: white;
+}.extra-four{
+    display: block;
+    margin: auto;
+   border-radius: 48px;
+}
+button:hover{
+    background-color: rgb(7, 15, 15);
+    cursor: pointer;
+}
+.extra-mian{
+    margin-left: 151px;
+    margin-right: 149px;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 14px;
+    padding-top: 40px;
+    padding-bottom:100px;
+}
+.touch{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 140px;
+    margin-left: 151px;
+    margin-right: 149px;
+    
+}
+.touch-heading{
+    font-size: 90px;
+    font-weight: 800;
+    height: 232px;
+    width: 528px;
+
+}
+.touch-form{
+    height: 490px;
+    width: 497px;
+    
+}
+.large-input{
+    width: 400px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: #D6DDED;
+    padding-left: 20px;
+
+}
+.large-input-two{
+    width: 400px;
+    height: 90px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: #D6DDED;
+    padding-left: 20px;
+   
+   
+}
+.position{
+    width: 400px;
+    height: 50px;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
+.style-form legend{
+    font-weight: 500;
 }
 
