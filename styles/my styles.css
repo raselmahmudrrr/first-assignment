@@ -197,5 +197,29 @@ nav h1{
 }
 .skill-title{
     font-size: medium;
+}/* extra-section */
+.extra{
+    align-items: center;
+    text-align: center;
+}
+.extra-one{
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+.extra-two{
+    font-size: small;
+    color: #0000009d;
+    margin-top: 5px;
+}
+.extra-three{
+    height: 48px;
+    width: 195px;
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    border-radius: 10px;
+    color: white;
 }
 
