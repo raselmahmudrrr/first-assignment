@@ -290,5 +290,31 @@ button:hover{
 }
 .style-form legend{
     font-weight: 500;
+}/* <!-- Footer Section --> */
+ .foot-logo{
+    font-weight: 800;
+    font-size: 100px;
+    color: #4E47FF;
+    margin-bottom: 10px;
+ }
+ .foot-para{
+    color: #000000a2;
+    margin-top: 5px;
+ }
+.foot-class{
+    text-align: center;
+}
+.foot-second{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    color: #0000009c;
+}
+.end{
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    max-width: 100%;
+
 }
 
